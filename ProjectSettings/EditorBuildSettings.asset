@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Scenes/MainMenu.unity
+    guid: cc3327a3f5640eb4292412221b73fcc8
+  - enabled: 1
+    path: Assets/Game/Scenes/Tutorial.unity
+    guid: 5c02acaf04e74fa43b92e1c3a99daa92
+  - enabled: 1
+    path: Assets/Game/Scenes/Resume.unity
+    guid: 24cc91d49231b5d4ba2ad407617eb38f
+  - enabled: 1
+    path: Assets/Game/Scenes/electric.unity
+    guid: 09c16956df834cb4d9139c57375f4148
+  - enabled: 1
+    path: Assets/Game/Scenes/calling cg.unity
+    guid: f9661714a0796b34ea33d22be5d785dd
+  - enabled: 1
+    path: Assets/Game/Scenes/transmit1.unity
+    guid: 0ba8c483f63d1484b97b917c1b7eea3d
+  - enabled: 1
+    path: Assets/Game/Scenes/level2.unity
+    guid: a1bf0a1dff602f74ea5a5b2da0db123d
+  - enabled: 1
+    path: Assets/Game/Scenes/endingcg.unity
+    guid: 6ea4b25485ec24ed0aa89a6e375e6529
+  - enabled: 1
+    path: Assets/Game/Scenes/transbeforeend.unity
+    guid: 94eed3a439771bf4585a74c2df20099c
+  - enabled: 1
+    path: Assets/Game/Scenes/level4.unity
+    guid: 5e2a1def036a418409f962d9a91a8d4a
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Game/Scenes/Ending.unity
+    guid: 2c14a63f90bdbe24b9538488cf92a301
+  - enabled: 1
+    path: Assets/Game/Scenes/Dead.unity
+    guid: 026230a6f14fe3e4f9da310d4ce55b79
